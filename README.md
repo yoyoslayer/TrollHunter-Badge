@@ -16,12 +16,7 @@ This was the opening challenge for Day 1 of the IRL weeklong hackathon held by F
 5. Order the PCB with assembly
 
 # BOM
-Item    |Quantity|Price ($)|URL
-NFC Chip|15|$7.53|https://www.lcsc.com/product-detail/C710403.html
-PCB,15  |$11.60  |https://jlcpcb.com/
+<img width="1501" height="158" alt="image" src="https://github.com/user-attachments/assets/fcfbd081-0573-4eb0-a7a9-69555f3d4b8a" />
 
-Item	Quantity	Price ($)	URL	
-NFC Chip	15	$7.53	https://www.lcsc.com/product-detail/C710403.html	
-PCB	15	$11.60	https://jlcpcb.com/	
 				
 # Screenshots
