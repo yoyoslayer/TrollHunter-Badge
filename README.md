@@ -14,3 +14,10 @@ This was the opening challenge for Day 1 of the IRL weeklong hackathon held by F
 2.5. Add any additional silkscreen art (Optional)
 4. Export the project to JLCPCB
 5. Order the PCB with assembly
+
+# BOM
+Item,Quantity,Price ($),URL
+NFC Chip,15,$7.53,https://www.lcsc.com/product-detail/C710403.html
+PCB,15,$11.60,https://jlcpcb.com/
+
+# Screenshots
