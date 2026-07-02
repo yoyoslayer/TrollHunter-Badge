@@ -20,11 +20,8 @@ Item    |Quantity|Price ($)|URL
 NFC Chip|15|$7.53|https://www.lcsc.com/product-detail/C710403.html
 PCB,15  |$11.60  |https://jlcpcb.com/
 
-Product name	Description	Qty
-Raspberry Pi Zero 2W	Main computer, runs satellite tracking software	1
-2.4" NO TOUCH ILI9341	SPI LCD display for Orbitz radar UI	1
-WS2812B LED STRIP	Internal RGB status lighting (1 m)	1
-RTL‑SDR USB dongle	ADS‑B receiver for local aircraft (dump1090)	1
-USB GPS dongle (VK‑172 or similar)	Provides live GPS position via GPSD	1
-
+Item	Quantity	Price ($)	URL	
+NFC Chip	15	$7.53	https://www.lcsc.com/product-detail/C710403.html	
+PCB	15	$11.60	https://jlcpcb.com/	
+				
 # Screenshots
